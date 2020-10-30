@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T16:23:11.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="SIESxJ5_tF3cHF3b85rt" type="github"><diagram id="0a0gQQvmmqsLcjfwRFG8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T17:04:10.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mCqV_ORCda8Z4ZoQQYf5" version="13.8.1" type="github">
+  <diagram id="0a0gQQvmmqsLcjfwRFG8" name="Page-1">
+    <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-1" value="We respond to everything around us" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="h4Yl-liZ_mC3GbsslgXy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-3" target="h4Yl-liZ_mC3GbsslgXy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-3" value="Inside our heart / Self remind / Practise" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-5" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="100" as="sourcePoint" />
+            <mxPoint x="300" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-6" value="Behaviour" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-8" value="Attitude" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-9" target="h4Yl-liZ_mC3GbsslgXy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-9" value="We learn akhlaq &amp;amp; always make Nabi Muhammad SAW as role model&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="280" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.501;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-12" target="h4Yl-liZ_mC3GbsslgXy-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-12" value="Self Learning&amp;nbsp;&lt;br&gt;(refer Al-Quran &amp;amp; Sunnah)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="355" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-13" value="Referring to ustaz/ustazah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.51;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-13" target="h4Yl-liZ_mC3GbsslgXy-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-15" value="Environment (Friends/Community)&amp;nbsp;&lt;br&gt;that show good examples or ask&amp;nbsp;&lt;br&gt;to do the good things too" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="385" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.298;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-15" target="h4Yl-liZ_mC3GbsslgXy-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h4Yl-liZ_mC3GbsslgXy-3" target="h4Yl-liZ_mC3GbsslgXy-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-18" value="Always self&lt;br&gt;reflecting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Yl-liZ_mC3GbsslgXy-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
