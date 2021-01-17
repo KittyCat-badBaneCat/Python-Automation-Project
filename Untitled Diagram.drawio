@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T15:22:11.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.4" etag="kBFZB5BwfYRhXN3OPn8C" type="github"><diagram id="IC0btcQ9QRisk_WDCUW8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-17T16:36:28.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="G0t3F0SU_MrGWBeQYgQK" version="14.2.4" type="github">
+  <diagram id="IC0btcQ9QRisk_WDCUW8" name="Page-1">
+    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="34.7" y="125.31" width="178.12" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.heart" vertex="1" parent="1">
+          <mxGeometry x="228" y="37.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="118.13" width="163.75" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-10" value="A5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-11" value="A0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="205.63" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-12" value="Arduino UNO&lt;br&gt;(CT-UNO)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88.75999999999999" y="110" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-13" value="GND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RHKQV4-hc4CMiXiyHf8G-14" value="5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
